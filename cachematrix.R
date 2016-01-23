@@ -3,7 +3,7 @@
 ## Functions to do what the programming assingment in week 3 demands
 
 ## Write a short comment describing this function
-## Function that makes a matrix that can be stored in cache with its inverse
+## Function that creates a matrix that can be stored in cache with its inverse
 
 makeCacheMatrix <- function(x = matrix())
 {
